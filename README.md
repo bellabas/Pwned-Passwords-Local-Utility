@@ -1,5 +1,5 @@
 # Pwned_Passwords_Local_Utility
-Local hashing, then an API call that uses k-anonimity. [GET https://api.pwnedpasswords.com/range/{first 5 hash chars}]
+Local hashing, then an API call that uses k-anonimity. [GET https://api.pwnedpasswords.com/range/{first-5-hash-chars}]
 
 # Requirements
 .NETFramework version v4.7.2 Runtime
