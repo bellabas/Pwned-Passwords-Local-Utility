@@ -1,4 +1,4 @@
-# Pwned_Passwords_Local_Utility
+# Pwned-Passwords-Local-Utility
 Local hashing, then an API call that uses k-anonimity. [GET https://api.pwnedpasswords.com/range/{first-5-hash-chars}]
 
 # Requirements
